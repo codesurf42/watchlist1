@@ -1,5 +1,7 @@
 # Watchlist service
 
+[![Build Status](https://travis-ci.org/codesurf42/watchlist1.svg?branch=master)](https://travis-ci.org/codesurf42/watchlist1)
+
 To run this service type
 ```sbt run```
 
